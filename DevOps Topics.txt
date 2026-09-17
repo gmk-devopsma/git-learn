@@ -1,0 +1,83 @@
+DevOps Tools
+
+============
+
+1. Linux Basics------------------------------------------------------Completed
+
+2. Shell Scripting --------------------------------------------------Completed
+
+3. Putty,winscip,mobaxterm-------------------------------------------Completed
+
+4. Webservers --> httpd,nginx----------------------------------------Completed
+
+   Application Server --> Tomcat-------------------------------------Completed
+
+5. Version Control System --> Git,GitHub, Bitbucket------------------Completed
+
+6. Build Tools --> Maven,npm----------------------------------------Completed
+
+7. project management tools --> Jira, Confluence
+
+8. CI/CD Tools --> Jenkins-----------------------------------------Completed
+
+9. Containerization --> Docker
+
+10. Orchestration --> Kubernetes
+
+11. Cloud Platforms --> AWS
+
+12. IaC --> Terraform,Opentofu
+
+13. Monitoring Tools --> Prometheus, Grafana
+
+14. End to End Project: AWS EKS
+
+    - Create a simple web application using Java and Tomcat.
+
+    - Use Git for version control and host the code on GitHub.
+
+    - Set up a Jenkins pipeline to automate the build and deployment process.
+
+    - Containerize the application using Docker and deploy it on Kubernetes.
+
+    - Monitor the application using Prometheus and Grafana.
+
+15. Interview tips
+
+16. Security best practises 
+
+17. Outlook Basics 
+
+ 
+
+Cloud Platforms --> AWS
+
+  1. Ec2 
+
+  2. IAM
+
+  3. VPC & Subnet 
+
+  4. S3
+
+  5. EBS
+
+  6. EFS
+
+  7. LoadBalancers
+
+  8. Route53
+
+  9. WAF
+
+  10. CloudTrail
+
+  11. CloudWatch
+
+  12. SNS & SES 
+
+  13. ECR
+
+  14. AWS GuardDuty
+
+Monitoring & Observability tools:  Data Dog
