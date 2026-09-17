@@ -2,7 +2,7 @@ DevOps Tools
 
 ============
 
-1. Linux Basics------------------------------------------------------Completed
+1. Linux Basics-----------------------------------Completed
 
 2. Shell Scripting --------------------------------------------------Completed
 
@@ -16,7 +16,7 @@ DevOps Tools
 
 6. Build Tools --> Maven,npm----------------------------------------Completed
 
-7. project management tools --> Jira, Confluence
+7. project management tools ---> Jira, Confluence -------------------completed
 
 8. CI/CD Tools --> Jenkins-----------------------------------------Completed
 
